@@ -1,0 +1,14 @@
+.header{
+    position: sticky;
+    background-color: red;
+    padding: 5px;
+    margin: 0px;
+    
+
+}
+  
+  .header h1 {
+    color: #fff;
+    font-family: "McLaren", Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 200;
+  }
